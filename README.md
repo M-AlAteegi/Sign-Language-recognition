@@ -65,6 +65,7 @@ The aim is to provide a lightweight solution that can run on resource-constraine
 
    jupyter notebook TheModel.ipynb
 
+
 ### Requirements
 
 -Python 3.8+
@@ -81,6 +82,7 @@ The aim is to provide a lightweight solution that can run on resource-constraine
 
 (See requirements.txt for exact versions.)
 
+
 ### Future Work
 
 -Expand dataset with more sign language gestures
@@ -88,6 +90,7 @@ The aim is to provide a lightweight solution that can run on resource-constraine
 -Add sentence-level recognition using RNNs or Transformers
 
 -Optimize model for mobile deployment (TensorFlow Lite)
+
 
 ### License
 
